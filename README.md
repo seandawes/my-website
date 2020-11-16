@@ -4,4 +4,4 @@
 
 Now editing the file
 
-Updated locally
+Updated locally and remotely
